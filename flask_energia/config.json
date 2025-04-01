@@ -5,12 +5,6 @@
   "description": "Add-on que ejecuta un modelo ARIMA para predecir consumo energético",
   "startup": "application",
   "boot": "auto",
-  "homeassistant_api": false,
   "host_network": true,
-  "options": {},
-  "schema": {},
-  "ports": {
-    "5000/tcp": 5000
-  },
   "arch": ["armv7", "arm64", "aarch64"]
 }
